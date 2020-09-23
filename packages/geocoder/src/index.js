@@ -1,5 +1,5 @@
 import * as arcgis from "@conveyal/geocoder-arcgis-geojson";
-import * as pelias from "isomorphic-mapzen-search";
+import * as pelias from "@gometro/isomorphic-mapzen-search";
 import memoize from "lodash.memoize";
 
 import ArcGISGeocoder from "./geocoders/arcgis";
