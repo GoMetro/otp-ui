@@ -1,5 +1,5 @@
 import moment from "moment";
-import getGeocoder from "@opentripplanner/geocoder/lib";
+import getGeocoder from "@gometro/otp-geocoder/lib";
 import qs from "qs";
 
 import {
